@@ -43,7 +43,7 @@ imToken 的系统架构、为 10k RPM 做的优化措施以及为什么用 Rails
 
 Taking the Company and Your Career to the Next Level
 
-**讲师：** @fredwu
+**讲师：** [@fredwu](https://fredwu.me/)
 
 **介绍：** TBD
 
